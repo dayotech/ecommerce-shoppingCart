@@ -1,4 +1,7 @@
-<h1>E-commerce</h1>
+<h1>Ecommerce Shopping Cart</h1>
+
+![ShoppingCart-preview](https://github.com/dayotech/shoppingCart/assets/31493149/446df5f9-05fd-49f3-bf1f-6067d3bb05da)
+
 
 <h3>used languages and technology</h3>
 <p>html - css - Pure Javascript </p>
